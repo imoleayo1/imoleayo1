@@ -18,7 +18,22 @@
 <img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="React">
 
 <!-- SQL image -->
-<img src="https://cdn.iconscout.com/icon/free/png-256/database-372-1144491.png" alt="SQL">
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fbranditechture.agency%2Fbrand-logos%2Fwp-content%2Fuploads%2F2022%2F10%2FAzure-SQL-1024x770.png&tbnid=1CP1l6rFXV7XLM&vet=12ahUKEwj02ej-vt7-AhWNrycCHdKnAKEQMygGegUIARDfAQ..i&imgrefurl=https%3A%2F%2Fbranditechture.agency%2Fbrand-logos%2Fdownload%2Fazure-sql%2F&docid=9yzZtKW5WnbQVM&w=1024&h=770&q=sql%20image&hl=en&ved=2ahUKEwj02ej-vt7-AhWNrycCHdKnAKEQMygGegUIARDfAQ" alt="SQL">
 
 
-<a href=”https://www.linkedin.com/in/asia-sharif-60616b150/"><img src=”images/linkedin.png” alt=”alternate text”width=”30px”></a>
+<a href=”https://www.linkedin.com/in/ayomid-aboaba/"><img src=”images/linkedin.png” alt=”alternate text”width=”30px”></a>
+ <table>
+  <tr>
+    <td><img src="https://link-to-javascript-image.jpg" alt="JavaScript"></td>
+    <td><img src="https://link-to-python-image.jpg" alt="Python"></td>
+    <td><img src="https://link-to-react-image.jpg" alt="React"></td>
+    <td><img src="https://link-to-sql-image.jpg" alt="SQL"></td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>Python</td>
+    <td>React</td>
+    <td>SQL</td>
+  </tr>
+</table>
+                                                    
