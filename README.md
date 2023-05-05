@@ -20,3 +20,5 @@
 <!-- SQL image -->
 <img src="https://cdn.iconscout.com/icon/free/png-256/database-372-1144491.png" alt="SQL">
 
+
+<a href=”https://www.linkedin.com/in/asia-sharif-60616b150/"><img src=”images/linkedin.png” alt=”alternate text”width=”30px”></a>
