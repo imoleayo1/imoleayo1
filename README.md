@@ -11,7 +11,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/ayomide-aboaba/"> <img src="images/linkedin.png" width=”30px”></a>
+
  <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="JavaScript"></td>
