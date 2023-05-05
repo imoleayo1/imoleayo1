@@ -8,4 +8,15 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I started coding at 12
 
-![image](https://user-images.githubusercontent.com/77014218/236499405-b02023fe-23cd-4e19-965e-63b53aae1120.png)
+<!-- JavaScript image -->
+<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="JavaScript">
+
+<!-- Python image -->
+<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python">
+
+<!-- React image -->
+<img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="React">
+
+<!-- SQL image -->
+<img src="https://cdn.iconscout.com/icon/free/png-256/database-372-1144491.png" alt="SQL">
+
