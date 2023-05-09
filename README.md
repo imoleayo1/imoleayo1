@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with AI and AWS
 - 📫 How to reach me: imoleayoaboaba@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I started coding at 12
+- ⚡ Fun fact: My favourite thing to do in the world is read 
 
 
 
