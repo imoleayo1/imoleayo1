@@ -7,29 +7,26 @@
 - 📫 How to reach me: imoleayoaboaba@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: My favourite thing to do in the world is read 
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Tools I Use</title>
-    <style>
-      /* Embedded CSS */
-      .title-bar {
-        background-color: #333;
-        color: #fff;
-        font-size: 24px;
-        padding: 10px;
-        text-align: center;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="title-bar">Tools I Use</div>
-  </body>
-</html>
 
-
-
-
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">Tools I Use</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">About</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Contact</a>
+      </li>
+    </ul>
+  </div>
+</nav>
  <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="JavaScript"></td>
