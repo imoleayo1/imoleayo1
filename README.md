@@ -7,7 +7,25 @@
 - 📫 How to reach me: imoleayoaboaba@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: My favourite thing to do in the world is read 
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tools I Use</title>
+    <style>
+      /* Embedded CSS */
+      .title-bar {
+        background-color: #333;
+        color: #fff;
+        font-size: 24px;
+        padding: 10px;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="title-bar">Tools I Use</div>
+  </body>
+</html>
 
 
 
