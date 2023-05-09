@@ -14,7 +14,7 @@
 
 
 
-TOOLS I USE
+TECHNICAL SKILLS
 -----------
  <table>
   <tr>
